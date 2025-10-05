@@ -8,9 +8,9 @@ function App() {
   return (
     <>
       <nav className={styles.menu}>
-        <Link to="/">Nyitolap</Link> |{" "}
-        <Link to="/konyvek">Konyv kereso</Link> |{" "}
-        <Link to="/filmek">Film kereso</Link>
+        <Link to="/">Nyitólap</Link> |{" "}
+        <Link to="/konyvek">önyv kereső</Link> |{" "}
+        <Link to="/filmek">Film kereső</Link>
       </nav>
 
       <Routes>

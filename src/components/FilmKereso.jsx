@@ -11,7 +11,7 @@ function FilmKereso() {
 
   return (
     <>
-      <h2>Film kereso</h2>
+      <h2>Film kereső</h2>
       <Kereso lista={filmek} />
     </>
   );

@@ -1,19 +1,14 @@
-.kereso {
-  margin-top: 20px;
+.menu {
   text-align: center;
+  margin: 20px 0;
 }
 
-.kereso input {
-  padding: 8px;
-  margin-bottom: 10px;
-  width: 200px;
+.menu a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
 }
 
-.kereso ul {
-  list-style: none;
-  padding: 0;
-}
-
-.kereso li {
-  margin: 4px 0;
+.menu a:hover {
+  color: #0366d6;
 }

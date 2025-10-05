@@ -11,7 +11,7 @@ function KonyvKereso() {
 
   return (
     <>
-      <h2>Konyv kereso</h2>
+      <h2>Könyv kereső</h2>
       <Kereso lista={konyvek} />
     </>
   );

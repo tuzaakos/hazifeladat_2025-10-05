@@ -1,0 +1,19 @@
+.kereso {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.kereso input {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+.kereso ul {
+  list-style: none;
+  padding: 0;
+}
+
+.kereso li {
+  margin: 4px 0;
+}

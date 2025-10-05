@@ -16,7 +16,7 @@ function Kereso(props) {
     <div className={styles.kereso}>
       <input
         type="text"
-        placeholder="Kereses..."
+        placeholder="Keresés..."
         value={szuro}
         onChange={(e) => setSzuro(e.target.value)}
       />

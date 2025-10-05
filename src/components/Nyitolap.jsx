@@ -1,8 +1,8 @@
 function Nyitolap() {
   return (
     <>
-      <h2>Udvozollek a React Router peldaban!</h2>
-      <p>Itt megmutatjuk, hogyan mukodik a toboldalas React alkalmazas egyszeru keresokkel.</p>
+      <h2>Üdvözlünk az Online Kereső Alkalmazásban!</h2>
+      <p>Ez az alkalmazás lehetőséget nyújt arra, hogy egyszerűen és gyorsan kereshess könyv- és filmcímek között.</p>
     </>
   );
 }
